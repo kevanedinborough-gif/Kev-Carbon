@@ -8,3 +8,16 @@
 *.pptx
 *.pdf
 *.docx
+.Rproj.user/
+SS/
+*.xlsx
+*.rds
+*_cache/
+*_files/
+output/
+figures/
+*.pdf
+*.pptx
+*.zip
+*.log
+*.tex
