@@ -1,0 +1,1215 @@
+lab_id,site_id,c14_age,c14_error,curve
+Wk-33542,Arnhem Plateau,298,25,shcal20
+Wk-33540,Arnhem Plateau,742,25,shcal20
+Wk-35588,Arnhem Plateau,3865,25,shcal20
+Wk-32918,Arnhem Plateau,147,26,shcal20
+Wk-33541,Arnhem Plateau,4525,29,shcal20
+OZL-605,Victoria Volcanic Plain,260,30,shcal20
+Wk-29098,Victoria Volcanic Plain,397,30,shcal20
+Wk-28885,Victoria Volcanic Plain,687,30,shcal20
+Wk-29096,Victoria Volcanic Plain,752,30,shcal20
+Wk-28888,Victoria Volcanic Plain,919,30,shcal20
+GaK-370,NSW North Coast,1210,30,shcal20
+Wk-27466,Sydney Basin,1265,30,shcal20
+Wk-29097,Victoria Volcanic Plain,1543,30,shcal20
+Wk-26882,Sydney Basin,2055,30,shcal20
+CAMS-120202,Sydney Basin,3480,30,shcal20
+Wk-23983,South East Coastal Plain,4485,30,shcal20
+Wk-28881,Victoria Volcanic Plain,624,31,shcal20
+Wk-28882,Victoria Volcanic Plain,665,31,shcal20
+Wk-28880,Victoria Volcanic Plain,889,31,shcal20
+Wk-32919,Arnhem Plateau,4056,31,shcal20
+Wk-26883,Sydney Basin,5812,31,shcal20
+Wk-23462,South East Coastal Plain,1391,32,shcal20
+Wk-23460,South East Coastal Plain,2277,32,shcal20
+Wk-19710,South East Coastal Plain,2350,32,shcal20
+Wk-22761,Sydney Basin,3643,32,shcal20
+Wk-22764,Sydney Basin,4151,32,shcal20
+Wk-19594,Broken Hill Complex,190,33,shcal20
+Wk-19574,Broken Hill Complex,235,33,shcal20
+Wk-13331,Sydney Basin,1685,33,shcal20
+Wk-22763,Sydney Basin,4563,33,shcal20
+Wk-21268,Great Sandy Desert,183,34,shcal20
+Wk-22757,MacDonnell Ranges,259,34,shcal20
+Wk-19598,Broken Hill Complex,795,34,shcal20
+Wk-19606,Broken Hill Complex,938,34,shcal20
+Wk-19570,Broken Hill Complex,982,34,shcal20
+Wk-23407,South East Coastal Plain,2171,34,shcal20
+Wk-25381,Arnhem Plateau,77,35,shcal20
+OZL-604,Victoria Volcanic Plain,205,35,shcal20
+Wk-14104,Sydney Basin,219,35,shcal20
+Wk-21267,Great Sandy Desert,223,35,shcal20
+Wk-13291,Sydney Basin,266,35,shcal20
+Wk-19600,Broken Hill Complex,348,35,shcal20
+Wk-19607,Broken Hill Complex,357,35,shcal20
+Wk-19579,Broken Hill Complex,410,35,shcal20
+Wk-19604,Broken Hill Complex,416,35,shcal20
+OZF-253,Brigalow Belt South,580,35,shcal20
+Wk-19573,Broken Hill Complex,928,35,shcal20
+Wk-14105,Sydney Basin,1432,35,shcal20
+OZH-891,Darwin Coastal,1570,35,shcal20
+OZH-890,Darwin Coastal,1835,35,shcal20
+Wk-14102,Sydney Basin,2942,35,shcal20
+Wk-17436,Sydney Basin,3270,35,shcal20
+Wk-14106,Sydney Basin,3423,35,shcal20
+Wk-17432,Sydney Basin,4433,35,shcal20
+Wk-19601,Broken Hill Complex,326,36,shcal20
+Wk-19596,Broken Hill Complex,342,36,shcal20
+Wk-19608,Broken Hill Complex,366,36,shcal20
+Wk-28864,NSW North Coast,579,36,shcal20
+Wk-11949,Cape York Peninsula,604,36,shcal20
+Wk-19614,Broken Hill Complex,635,36,shcal20
+Wk-14626,Sydney Basin,852,36,shcal20
+Wk-28865,NSW North Coast,939,36,shcal20
+Wk-19572,Broken Hill Complex,942,36,shcal20
+Wk-14617,Sydney Basin,1248,36,shcal20
+Wk-22421,South East Corner,1352,36,shcal20
+Wk-23461,South East Coastal Plain,1828,36,shcal20
+Wk-16998,Simpson Strzelecki Dunefields,2838,36,shcal20
+Wk-14623,Sydney Basin,199,37,shcal20
+Wk-21266,Great Sandy Desert,211,37,shcal20
+Wk-16226,Sydney Basin,337,37,shcal20
+Wk-9340,Broken Hill Complex,678,37,shcal20
+Wk-19597,Broken Hill Complex,991,37,shcal20
+Wk-14622,Sydney Basin,1256,37,shcal20
+Wk-19581,Broken Hill Complex,1587,37,shcal20
+Wk-19575,Broken Hill Complex,1745,37,shcal20
+Wk-9336,Broken Hill Complex,468,38,shcal20
+Wk-16230,Sydney Basin,592,38,shcal20
+Wk-19584,Broken Hill Complex,638,38,shcal20
+WK-14624,Sydney Basin,743,38,shcal20
+Wk-19585,Broken Hill Complex,1094,38,shcal20
+Wk-19576,Broken Hill Complex,1178,38,shcal20
+Wk-16610,Darwin Coastal,1635,38,shcal20
+Wk-13294,Sydney Basin,233,39,shcal20
+Wk-9339,Broken Hill Complex,314,39,shcal20
+Wk-9338,Broken Hill Complex,354,39,shcal20
+NZA-20627,Little Sandy Desert,386,39,shcal20
+Wk-19602,Broken Hill Complex,752,39,shcal20
+Wk-14619,Sydney Basin,1109,39,shcal20
+Wk-14618,Sydney Basin,1116,39,shcal20
+Wk-16229,Sydney Basin,3010,39,shcal20
+Wk-5493,Broken Hill Complex,270,40,shcal20
+OZL-758,Victoria Volcanic Plain,300,40,shcal20
+Not given,Gulf Plains,375,40,shcal20
+OZG-691,Gulf Plains,375,40,shcal20
+GaK-569,NSW North Coast,410,40,shcal20
+OZF-395,Murray Darling Depression,420,40,shcal20
+Beta-3922,Naracoorte Coastal Plain,450,40,shcal20
+GaK-571,NSW North Coast,535,40,shcal20
+OZF-257,Brigalow Belt South,570,40,shcal20
+GaK-572,NSW North Coast,630,40,shcal20
+OZF-252,Brigalow Belt South,650,40,shcal20
+Wk-16121,Pilbara (inland),716,40,shcal20
+GaK-570,NSW North Coast,740,40,shcal20
+Beta-165769,Sydney Basin,760,40,shcal20
+Beta-165770,Sydney Basin,770,40,shcal20
+OZF-396,Murray Darling Depression,820,40,shcal20
+OZF-256,Brigalow Belt South,860,40,shcal20
+Beta-165772,Sydney Basin,930,40,shcal20
+Beta-137093,Sydney Basin,930,40,shcal20
+OZF-394,Murray Darling Depression,1230,40,shcal20
+Not given,Brigalow Belt North,1240,40,shcal20
+Wk-5122,Channel Country,1260,40,shcal20
+Wk-3626,Warren,1370,40,shcal20
+Wk-13333,Sydney Basin,1652,40,shcal20
+Beta-165768,Sydney Basin,1670,40,shcal20
+OZH-893,Darwin Coastal,1705,40,shcal20
+Beta-165771,Sydney Basin,1840,40,shcal20
+OZF-393,Murray Darling Depression,2790,40,shcal20
+Not given,Brigalow Belt North,2860,40,shcal20
+Wk-16227,Sydney Basin,3351,40,shcal20
+R2040/4,Southern East Queensland,4730,40,shcal20
+Not given,Brigalow Belt North,5240,40,shcal20
+OZL-608,Victoria Volcanic Plain,5820,40,shcal20
+Wk-14620,Sydney Basin,265,41,shcal20
+Wk-13293,Sydney Basin,337,41,shcal20
+Wk-21305,Murray Darling Depression,1103,42,shcal20
+Wk-23406,South East Coastal Plain,5463,42,shcal20
+Wk-19577/NZA 27101,Broken Hill Complex,259,43,shcal20
+Wk-19582/NZA 27104,Broken Hill Complex,858,43,shcal20
+Wk-14621,Sydney Basin,1391,43,shcal20
+Wk-13292,Sydney Basin,2143,43,shcal20
+Wk-28883,Victoria Volcanic Plain,4715,43,shcal20
+Wk-18838,South Eastern Highlands,8343,43,shcal20
+Wk-18839,South Eastern Highlands,8668,43,shcal20
+Wk-16228,Sydney Basin,347,44,shcal20
+Wk-10703,Cape York Peninsula,670,44,shcal20
+Wk-13295,Sydney Basin,2757,44,shcal20
+Wk-19583,Broken Hill Complex,286,45,shcal20
+NZ-367,South East Coastal Plain,370,45,shcal20
+Wk-12416,South East Corner,953,45,shcal20
+WK-21304,Murray Darling Depression,1047,45,shcal20
+OZH-896,Darwin Coastal,1345,45,shcal20
+Wk-12417,South East Corner,1715,45,shcal20
+Wk-13446,NSW North Coast,2584,45,shcal20
+Wk-16547,Sydney Basin,3241,45,shcal20
+Wk-9342,Broken Hill Complex,379,46,shcal20
+Wk-12326,Murray Darling Depression,584,46,shcal20
+Wk-12325,Murray Darling Depression,771,46,shcal20
+Wk-19580/NZA 27103,Broken Hill Complex,1321,46,shcal20
+Wk-14266,Sydney Basin,2026,46,shcal20
+Wk-11149,Riverina,2059,46,shcal20
+Wk-11147,Riverina,261,47,shcal20
+Wk-11145,Riverina,775,47,shcal20
+Wk-10282,Murray Darling Depression,886,47,shcal20
+Wk-19578/ NZA 27102,Broken Hill Complex,1708,47,shcal20
+Wk-11188,Victoria Midlands,2283,47,shcal20
+V-11,NSW North Coast,2852,47,shcal20
+Wk-11148,Riverina,984,48,shcal20
+Wk-12319,Murray Darling Depression,1002,48,shcal20
+Wk-11144,Riverina,187,49,shcal20
+Wk-9994,Murray Darling Depression,261,49,shcal20
+Wk-13332,Sydney Basin,1611,49,shcal20
+Wk-14103,Sydney Basin,6720,49,shcal20
+SUA 2254,Flinders Lofty Block,60,50,shcal20
+OZA-303,Victoria Bonaparte,80,50,shcal20
+LLNL-32255,Victoria Bonaparte,130,50,shcal20
+Beta-69644,Victoria Midlands,140,50,shcal20
+Beta-21545,Naracoorte Coastal Plain,160,50,shcal20
+Wk-11146,Riverina,187,50,shcal20
+Beta-165767,Sydney Basin,200,50,shcal20
+Wk-3142,Broken Hill Complex,220,50,shcal20
+Beta-53299,NSW North Coast,230,50,shcal20
+Beta-65747,Sydney Basin,230,50,shcal20
+Beta-7061,South East Coastal Plain,250,50,shcal20
+Wk-3424,Southern East Queensland,250,50,shcal20
+Beta-69645,Victoria Midlands,270,50,shcal20
+Beta-16546,South East Coastal Plain,320,50,shcal20
+Wk-4536,Sydney Basin,330,50,shcal20
+Wk-4197,Broken Hill Complex,350,50,shcal20
+Wk-6322,Pilbara (inland),350,50,shcal20
+Wk-6621,Channel Country,380,50,shcal20
+Wk-3954,Warren,400,50,shcal20
+Beta-69643,Victoria Midlands,410,50,shcal20
+Wk-5332,Channel Country,470,50,shcal20
+Not given,NSW North Coast,470,50,shcal20
+Wk-8009,Southern East Queensland,500,50,shcal20
+SUA-2499,Cape York Peninsula,520,50,shcal20
+SUA-2500,Cape York Peninsula,540,50,shcal20
+Wk-7099,Pilbara (inland),540,50,shcal20
+Wk-6324,Pilbara (inland),560,50,shcal20
+AA-5846,South East Corner,635,50,shcal20
+Wk-5125,Channel Country,660,50,shcal20
+Wk-6631,Channel Country,660,50,shcal20
+Beta-39210,Sydney Basin,660,50,shcal20
+Beta-48521,Sydney Basin,680,50,shcal20
+Wk-5330,Channel Country,690,50,shcal20
+ANU-8329,Arnhem Coast,690,50,shcal20
+ANU-3047,South East Corner,690,50,shcal20
+Wk-4533,Sydney Basin,700,50,shcal20
+Wk-4537,Sydney Basin,740,50,shcal20
+GaK-398,Naracoorte Coastal Plain,760,50,shcal20
+Beta-52811,Tasmanian Central Highlands,780,50,shcal20
+Wk-6038,Channel Country,790,50,shcal20
+Beta-56983,Sydney Basin,810,50,shcal20
+Wk-5329,Channel Country,820,50,shcal20
+Beta-39201,Sydney Basin,830,50,shcal20
+Beta-16650,South Eastern Highlands,870,50,shcal20
+Beta-54054,Murray Darling Depression,910,50,shcal20
+ANU 660,Murray Darling Depression,940,50,shcal20
+Wk-6323,Pilbara (inland),950,50,shcal20
+Beta-39209,Sydney Basin,970,50,shcal20
+Beta-39307,Sydney Basin,970,50,shcal20
+SUA-2258,Sydney Basin,980,50,shcal20
+Wk-4535,Sydney Basin,1030,50,shcal20
+Beta-53300,NSW North Coast,1190,50,shcal20
+Wk-5124,Channel Country,1210,50,shcal20
+GaK-464,NSW North Coast,1230,50,shcal20
+Wk-6036,Channel Country,1290,50,shcal20
+Wk-414,South East Coastal Plain,1290,50,shcal20
+Wk-5331,Channel Country,1300,50,shcal20
+Beta-76605,Sydney Basin,1340,50,shcal20
+Wk-5123,Channel Country,1410,50,shcal20
+Beta-76606,Sydney Basin,1410,50,shcal20
+Wk-6035,Channel Country,1460,50,shcal20
+Beta-45593,Victoria Volcanic Plain,1460,50,shcal20
+CAMS-45666,Victoria Bonaparte,1470,50,shcal20
+Wk-2962,Sydney Basin,1560,50,shcal20
+Wk-9147,Pilbara (inland),1610,50,shcal20
+Wk-6630,Channel Country,1630,50,shcal20
+Beta-62206,Sydney Basin,1730,50,shcal20
+Beta-7640,Channel Country,1740,50,shcal20
+Beta-53302,NSW North Coast,1830,50,shcal20
+Wk-6327,Pilbara (inland),1840,50,shcal20
+Beta-39214,Sydney Basin,1890,50,shcal20
+Wk-6325,Pilbara (inland),2000,50,shcal20
+Not given,Brigalow Belt North,2110,50,shcal20
+Beta-39200,Sydney Basin,2210,50,shcal20
+OZF-392,Murray Darling Depression,2300,50,shcal20
+Beta-39204,Sydney Basin,2460,50,shcal20
+SUA-2259,Sydney Basin,2690,50,shcal20
+Beta-32614,Sydney Basin,2820,50,shcal20
+Wk-4657,Warren,3180,50,shcal20
+Wk-8953,Pilbara (inland),3230,50,shcal20
+Beta-63204,Sydney Basin,3310,50,shcal20
+Beta-52812,Tasmanian Central Highlands,3310,50,shcal20
+Wk-11185,Victoria Midlands,3860,50,shcal20
+Beta-135851,Victoria Midlands,3930,50,shcal20
+GaK-1188,Nandewar,3950,50,shcal20
+Beta-135852,Victoria Midlands,4040,50,shcal20
+CAMS-44348,Victoria Bonaparte,4220,50,shcal20
+CAMS-44349,Victoria Bonaparte,4560,50,shcal20
+OZL-759,Victoria Volcanic Plain,5095,50,shcal20
+OZL-760,Victoria Volcanic Plain,5870,50,shcal20
+Beta-93350,Victoria Midlands,7500,50,shcal20
+Beta-87211,Sydney Basin,7860,50,shcal20
+Wk-10832,Murray Darling Depression,959,51,shcal20
+NZ-1326,Victoria Volcanic Plain,6772,51,shcal20
+Wk-17433,Sydney Basin,8206,51,shcal20
+Wk-12324,Murray Darling Depression,516,52,shcal20
+Wk-10280,Murray Darling Depression,910,52,shcal20
+Wk-10281,Murray Darling Depression,1653,52,shcal20
+Wk-9337,Broken Hill Complex,357,53,shcal20
+Wk-22762,Sydney Basin,3662,53,shcal20
+Wk-10457,Channel Country,398,54,shcal20
+Wk-11711,Desert Uplands,650,54,shcal20
+Wk-17434,Sydney Basin,6078,54,shcal20
+Wk-6632,Channel Country,220,55,shcal20
+Beta-7062,South East Coastal Plain,280,55,shcal20
+Wk-12323,Murray Darling Depression,481,55,shcal20
+Wk-6624,Channel Country,720,55,shcal20
+NSW-6,Sydney Basin,1220,55,shcal20
+ANU-55,Nandewar,2050,55,shcal20
+OxA-7368,Victoria Bonaparte,3525,55,shcal20
+UB-4370,Naracoorte Coastal Plain,10207,55,shcal20
+Wk-6668,Darwin Coastal,434,56,shcal20
+Wk-10455,Channel Country,659,56,shcal20
+Wk-11186,Victoria Midlands,996,56,shcal20
+Wk-12321,Murray Darling Depression,1247,56,shcal20
+Wk-6669,Darwin Coastal,1432,56,shcal20
+Wk-7171,Darwin Coastal,197,57,shcal20
+ANU-62,Tiwi Coburg,550,57,shcal20
+Wk-27731,Sydney Basin,1145,57,shcal20
+Wk-12322,Murray Darling Depression,458,58,shcal20
+Wk-10456,Channel Country,601,58,shcal20
+Wk-9533,Victoria Midlands,12879,59,shcal20
+GaK-1299,NSW North Coast,140,60,shcal20
+Beta-54055,Murray Darling Depression,160,60,shcal20
+ANU-656,Flinders Lofty Block,170,60,shcal20
+Beta-44524,Sydney Basin,200,60,shcal20
+ANU 654,Murray Darling Depression,220,60,shcal20
+ANU-11898,Desert Uplands,240,60,shcal20
+ANU 672,Murray Darling Depression,240,60,shcal20
+Beta-39203,Sydney Basin,260,60,shcal20
+Beta-48521,Sydney Basin,260,60,shcal20
+ANU-2022,Arnhem Coast,270,60,shcal20
+Beta-39206,Sydney Basin,270,60,shcal20
+Beta-21544,Naracoorte Coastal Plain,290,60,shcal20
+ANU-4322,Victoria Midlands,300,60,shcal20
+ANU-11899,Desert Uplands,330,60,shcal20
+SUA-1924,Victoria Volcanic Plain,340,60,shcal20
+Beta-44525,Sydney Basin,340,60,shcal20
+Wk-7604,Ord Victoria Plain,340,60,shcal20
+V-26,NSW North Coast,351,60,shcal20
+Wk-411,South East Coastal Plain,360,60,shcal20
+ANU-8421,Sydney Basin,360,60,shcal20
+Wk-4534,Sydney Basin,370,60,shcal20
+ANU-1047,South Eastern Highlands,370,60,shcal20
+Wk-7431,Darwin Coastal,400,60,shcal20
+ANU-4038B,Murray Darling Depression,410,60,shcal20
+ANU-8436,Sydney Basin,420,60,shcal20
+ANU-4979,South East Coastal Plain,450,60,shcal20
+ANU-896,Sydney Basin,470,60,shcal20
+ANU-8228B,South East Corner,530,60,shcal20
+ANU-1048,Australian Alps,550,60,shcal20
+Wk-5127,Channel Country,580,60,shcal20
+Beta-75517,Riverina,590,60,shcal20
+Beta-39208,Sydney Basin,600,60,shcal20
+Wk-7400,Darwin Coastal,630,60,shcal20
+Beta-48520,Sydney Basin,700,60,shcal20
+Beta-13482,Cape York Peninsula,760,60,shcal20
+Beta-56975,Arnhem Coast,800,60,shcal20
+ANU-11907,Desert Uplands,870,60,shcal20
+ANU-8979,Sydney Basin,900,60,shcal20
+SUA-262C,Sydney Basin,910,60,shcal20
+Wk-3423,Southern East Queensland,930,60,shcal20
+Beta-81816,Victoria Bonaparte,950,60,shcal20
+Beta-98031,Southern East Queensland,970,60,shcal20
+Wk-4102,Broken Hill Complex,980,60,shcal20
+Beta-37394,Southern East Queensland,980,60,shcal20
+ANU-1778,King,1000,60,shcal20
+Wk-8001,Pilbara (inland),1000,60,shcal20
+ANU-1050,South Eastern Highlands,1000,60,shcal20
+SUA-1929,Riverina,1030,60,shcal20
+Wk-7691,Victoria Bonaparte,1050,60,shcal20
+Beta-66451,Sydney Basin,1070,60,shcal20
+GaK-463,NSW North Coast,1090,60,shcal20
+ANU-6946,Tasmanian South East,1100,60,shcal20
+Wk-2083,Sydney Basin,1170,60,shcal20
+SUA-1921,Victoria Volcanic Plain,1190,60,shcal20
+Wk-413,South East Coastal Plain,1230,60,shcal20
+SUA-1927,Riverina,1250,60,shcal20
+Wk-5126,Channel Country,1260,60,shcal20
+Wk-6622,Channel Country,1280,60,shcal20
+Wk-6037,Channel Country,1310,60,shcal20
+Beta-69642,Victoria Midlands,1390,60,shcal20
+SUA-1928,Riverina,1390,60,shcal20
+ANU-1020,Sydney Basin,1410,60,shcal20
+Beta-16298,Southern East Queensland,1420,60,shcal20
+Wk-6039,Channel Country,1440,60,shcal20
+Beta-7063,Victoria Volcanic Plain,1470,60,shcal20
+Wk 5396,Murray Darling Depression,1510,60,shcal20
+ANU-8133,Sydney Basin,1540,60,shcal20
+ANU-1049,Australian Alps,1600,60,shcal20
+Beta-88519,Victoria Midlands,1720,60,shcal20
+Beta-16651,South Eastern Highlands,1730,60,shcal20
+ANU-8426,Sydney Basin,1740,60,shcal20
+Beta-36303,Southern East Queensland,1750,60,shcal20
+SUA-2351,Sydney Basin,1780,60,shcal20
+SUA-2352,Sydney Basin,1780,60,shcal20
+Beta-65748,Sydney Basin,1790,60,shcal20
+Beta-39465,Sydney Basin,1890,60,shcal20
+Beta-7064,Victoria Volcanic Plain,1900,60,shcal20
+ANU-1021,Sydney Basin,1930,60,shcal20
+Wk 5258,Murray Darling Depression,2020,60,shcal20
+CAMS-44350,Victoria Bonaparte,2130,60,shcal20
+ANU-1844,Pilbara (coast),2180,60,shcal20
+Beta-11896,Sydney Basin,2200,60,shcal20
+Beta-88520,Victoria Midlands,2220,60,shcal20
+Beta-29211,Sydney Basin,2370,60,shcal20
+CAMS-45667,Victoria Bonaparte,2370,60,shcal20
+Beta-53301,NSW North Coast,2420,60,shcal20
+Beta-36304,Southern East Queensland,2480,60,shcal20
+Beta-7067,Riverina,2490,60,shcal20
+Beta-38415,Southern East Queensland,2660,60,shcal20
+Beta-39202,Sydney Basin,2750,60,shcal20
+ANU-8764,South East Corner,2770,60,shcal20
+Beta-32046,Southern East Queensland,2950,60,shcal20
+ANU-8312,Sydney Basin,3150,60,shcal20
+OZD-454,Victoria Bonaparte,3160,60,shcal20
+SUA-2413,Sydney Basin,3450,60,shcal20
+NZA-12117,Southern East Queensland,3500,60,shcal20
+NZA-12273,Southern East Queensland,3570,60,shcal20
+R-4824,Victoria Volcanic Plain,3600,60,shcal20
+SUA-2018,Victoria Volcanic Plain,3620,60,shcal20
+CAMS-45669,Victoria Bonaparte,3640,60,shcal20
+NZA-12118,Southern East Queensland,3660,60,shcal20
+CAMS-44351,Victoria Bonaparte,4180,60,shcal20
+Wk-7605,Ord Victoria Plain,5290,60,shcal20
+AA-5850,Sydney Basin,6085,60,shcal20
+OZL-609,Victoria Volcanic Plain,8070,60,shcal20
+GaK-397,Naracoorte Coastal Plain,8250,60,shcal20
+NZA-8538,Victoria Midlands,8926,60,shcal20
+R2040/5,Southern East Queensland,9790,60,shcal20
+Wk-16167,Sydney Basin,9376,61,shcal20
+Wk-12320,Murray Darling Depression,967,62,shcal20
+ANU-56,Nandewar,2290,62,shcal20
+Wk-10500,Channel Country,729,63,shcal20
+NZA-8537,Victoria Midlands,9024,63,shcal20
+V-49,Cobar Peneplain,200,65,shcal20
+Beta-1690,Victoria Volcanic Plain,960,65,shcal20
+ANU-1181,South Eastern Highlands,1010,65,shcal20
+N-1661,Riverina,2010,65,shcal20
+ANU-54,Nandewar,2760,65,shcal20
+OxA-7369,Victoria Bonaparte,5840,65,shcal20
+V-24,NSW North Coast,4042,66,shcal20
+Wk-11562,South Eastern Highlands,12178,66,shcal20
+NZA-3964,South East Coastal Plain,3538,68,shcal20
+Wk-9995,Murray Darling Depression,848,69,shcal20
+ANU-827,Swan Coastal Plain,110,70,shcal20
+SUA-1919,South East Corner,150,70,shcal20
+Beta-21540,Naracoorte Coastal Plain,150,70,shcal20
+ANU-7670B,Murray Darling Depression,190,70,shcal20
+ANU-6842,Nullarbor,220,70,shcal20
+SUA-1917,Riverina,260,70,shcal20
+ANU-6447,Sydney Basin,270,70,shcal20
+GX14607,Simpson Strzelecki Dunefields,275,70,shcal20
+Beta-21543,Naracoorte Coastal Plain,290,70,shcal20
+SUA-1495,Victoria Midlands,330,70,shcal20
+ANU-6448,Sydney Basin,330,70,shcal20
+Wk-5581,Darwin Coastal,350,70,shcal20
+ANU-1238,Naracoorte Coastal Plain,350,70,shcal20
+ANU-1621,King,420,70,shcal20
+Beta 35210,Channel Country,430,70,shcal20
+ANU-8437,Sydney Basin,430,70,shcal20
+ANU-3761,South East Coastal Plain,440,70,shcal20
+SUA-2255,Sydney Basin,480,70,shcal20
+ANU-1833,Pilbara (coast),500,70,shcal20
+Beta-45946,Riverina,510,70,shcal20
+SUA-2177,South Eastern Highlands,550,70,shcal20
+ANU-8438,Sydney Basin,550,70,shcal20
+SUA-1456,Victoria Volcanic Plain,580,70,shcal20
+ANU-11908,Desert Uplands,630,70,shcal20
+ANU-8423,Sydney Basin,690,70,shcal20
+Beta-14848,Naracoorte Coastal Plain,700,70,shcal20
+ANU-1985,Sydney Basin,710,70,shcal20
+ANU-1546,Naracoorte Coastal Plain,720,70,shcal20
+ANU-123,Sydney Basin,730,70,shcal20
+ANU 666,Murray Darling Depression,740,70,shcal20
+ANU 675,Murray Darling Depression,750,70,shcal20
+ANU-1620,King,760,70,shcal20
+ANU-1698,King,870,70,shcal20
+Beta 33937,Channel Country,880,70,shcal20
+ANU-7501B,South East Corner,910,70,shcal20
+SUA-155,Sydney Basin,980,70,shcal20
+ANU 674,Murray Darling Depression,990,70,shcal20
+Beta-29213,Sydney Basin,1020,70,shcal20
+ANU-1171,Naracoorte Coastal Plain,1030,70,shcal20
+Wk-7693,Victoria Bonaparte,1060,70,shcal20
+ANU-6451,South East Coastal Plain,1100,70,shcal20
+ANU-1183,South Eastern Highlands,1110,70,shcal20
+V-20,Tasmanian West,1120,70,shcal20
+ANU-1245,Naracoorte Coastal Plain,1160,70,shcal20
+Beta-39205,Sydney Basin,1200,70,shcal20
+V-43,NSW North Coast,1225,70,shcal20
+ANU-6353,Naracoorte Coastal Plain,1230,70,shcal20
+Wk-415,South East Coastal Plain,1280,70,shcal20
+V-41,NSW North Coast,1310,70,shcal20
+ANU-1699,King,1370,70,shcal20
+SUA-1695B,Murray Darling Depression,1380,70,shcal20
+Wk-6620,Channel Country,1390,70,shcal20
+SUA-2256,Sydney Basin,1520,70,shcal20
+ANU-8981,Sydney Basin,1530,70,shcal20
+V-19,King,1560,70,shcal20
+ANU-1169,Naracoorte Coastal Plain,1590,70,shcal20
+ANU-6446,Sydney Basin,1630,70,shcal20
+ANU-139,Sydney Basin,1660,70,shcal20
+ANU-8428,Sydney Basin,1780,70,shcal20
+Beta-1213,Sydney Basin,1840,70,shcal20
+Wk-6527,Darwin Coastal,1850,70,shcal20
+ANU-8135,Sydney Basin,1860,70,shcal20
+OZF-391,Murray Darling Depression,1900,70,shcal20
+Beta-16652,South Eastern Highlands,1980,70,shcal20
+ANU-1870,Pilbara (coast),2010,70,shcal20
+SUA-1922,Victoria Volcanic Plain,2040,70,shcal20
+GaK-1187,Nandewar,2040,70,shcal20
+ANU-7193,Tasmanian Southern Ranges,2070,70,shcal20
+SUA-1925,Victoria Volcanic Plain,2080,70,shcal20
+Beta-119475,Sydney Basin,2130,70,shcal20
+Beta-61795,Victoria Volcanic Plain,2160,70,shcal20
+Wk-2701,Sydney Basin,2170,70,shcal20
+SUA-2257,Sydney Basin,2220,70,shcal20
+Wk-2961,Sydney Basin,2230,70,shcal20
+ANU-8427,Sydney Basin,2250,70,shcal20
+Beta-27078,Tasmanian Southern Ranges,2450,70,shcal20
+Wk-2513,Sydney Basin,2510,70,shcal20
+ANU-1362,King,2580,70,shcal20
+Wk-2690,Sydney Basin,2590,70,shcal20
+Beta-47222,Tiwi Coburg,2590,70,shcal20
+SUA-25,Sydney Basin,2650,70,shcal20
+ANU-6843,Nullarbor,2800,70,shcal20
+Beta-83636,Victoria Bonaparte,2920,70,shcal20
+SUA-3353,Flinders Lofty Block,2950,70,shcal20
+ANU-1231,Naracoorte Coastal Plain,2990,70,shcal20
+ANU-1751C,Murray Darling Depression,3080,70,shcal20
+Beta-62207,Sydney Basin,3120,70,shcal20
+Wk-8845,Sydney Basin,3240,70,shcal20
+ANU-8422,Sydney Basin,3280,70,shcal20
+OZD-958,Arnhem Plateau,3820,70,shcal20
+SUA-886,Swan Coastal Plain,4530,70,shcal20
+R2526/13,Southern East Queensland,4560,70,shcal20
+ANU-6844,Nullarbor,5460,70,shcal20
+Beta-53303,NSW North Coast,6070,70,shcal20
+Beta-58866,NSW North Coast,6760,70,shcal20
+Beta-2855,Tasmanian South East,7560,70,shcal20
+SUA-2410,Sydney Basin,8730,70,shcal20
+SUA-2445,Warren,11060,70,shcal20
+Beta-74543/CAMS-14912,Tasmanian Southern Ranges,16670,70,shcal20
+NZ-1221,Victoria Volcanic Plain,7716,72,shcal20
+Wk-10831,Murray Darling Depression,2004,73,shcal20
+NZA-3112,Sydney Basin,5957,74,shcal20
+ANU-204,Gawler,235,75,shcal20
+V-50,Cobar Peneplain,310,75,shcal20
+SUA-47,Sydney Basin,320,75,shcal20
+ANU-2422,Victoria Volcanic Plain,390,75,shcal20
+ANU-534,Sydney Basin,570,75,shcal20
+SUA-58,Victoria Bonaparte,680,75,shcal20
+Wk-6628,Channel Country,790,75,shcal20
+OZC-959,Darwin Coastal,860,75,shcal20
+ANU-3715,Sydney Basin,900,75,shcal20
+Wk-6623,Channel Country,1350,75,shcal20
+V-39,NSW North Coast,1350,75,shcal20
+V-42,NSW North Coast,1465,75,shcal20
+ANU-1487,Naracoorte Coastal Plain,2590,75,shcal20
+ANU-1131,Warren,3080,75,shcal20
+V-27,NSW North Coast,6445,75,shcal20
+Wk-11561,South Eastern Highlands,9998,75,shcal20
+AA-19691,Warren,19840,75,shcal20
+Wk-9993,Murray Darling Depression,1747,76,shcal20
+ANU-6944,Tasmanian South East,230,77,shcal20
+Wk-11187,Victoria Midlands,2176,79,shcal20
+Beta-68161,South East Coastal Plain,120,80,shcal20
+GaK 2511,Murray Darling Depression,180,80,shcal20
+ANU-7684,Simpson Strzelecki Dunefields,200,80,shcal20
+Beta-56565,Southern East Queensland,200,80,shcal20
+ANU-3262,Murray Darling Depression,220,80,shcal20
+GaK-5991,Tasmanian West,250,80,shcal20
+SUA-1128,Riverina,250,80,shcal20
+ANU-2245,South East Corner,260,80,shcal20
+ANU-2424,Victoria Volcanic Plain,270,80,shcal20
+ANU-1572,Sydney Basin,270,80,shcal20
+GaK-707,NSW North Coast,320,80,shcal20
+ANU-5425,Channel Country,330,80,shcal20
+Beta-13481,Cape York Peninsula,380,80,shcal20
+Wk-2993,Simpson Strzelecki Dunefields,410,80,shcal20
+ANU-11909,Desert Uplands,430,80,shcal20
+GaK-704,NSW North Coast,440,80,shcal20
+SUA-1018B,Tasmanian South East,445,80,shcal20
+Beta-44523,Sydney Basin,450,80,shcal20
+SUA-263,Darwin Coastal,450,80,shcal20
+GaK-873,Sydney Basin,480,80,shcal20
+Not given,Sydney Basin,530,80,shcal20
+ANU-125,Sydney Basin,530,80,shcal20
+Beta-40392,Arnhem Coast,610,80,shcal20
+SUA-204,Sydney Basin,615,80,shcal20
+Wk-412,South East Coastal Plain,620,80,shcal20
+ANU-12033,Gulf Coastal,620,80,shcal20
+ANU-8154B,Sydney Basin,650,80,shcal20
+Beta-69646,Victoria Midlands,650,80,shcal20
+SUA-1146,South East Corner,650,80,shcal20
+Beta-62712,Murray Darling Depression,680,80,shcal20
+SUA-1448,South East Corner,730,80,shcal20
+SUA-1242,Riverina,730,80,shcal20
+SUA-1124,Sydney Basin,780,80,shcal20
+ANU 409,Murray Darling Depression,790,80,shcal20
+Beta-95256,Darwin Coastal,850,80,shcal20
+V-25,NSW North Coast,867,80,shcal20
+SUA-1112,Tasmanian South East,900,80,shcal20
+SUA-1455,South East Corner,950,80,shcal20
+SUA-1916,Riverina,950,80,shcal20
+SUA-996,Riverina,960,80,shcal20
+Beta 16306,Finke,980,80,shcal20
+Beta-40391,Arnhem Coast,980,80,shcal20
+SUA-1930,Riverina,1000,80,shcal20
+ANU-5427,Simpson Strzelecki Dunefields,1020,80,shcal20
+GaK-710,NSW North Coast,1020,80,shcal20
+Not given,Sydney Basin,1050,80,shcal20
+Beta-87873,Darwin Coastal,1070,80,shcal20
+SUA-1695C,Murray Darling Depression,1100,80,shcal20
+SUA-229,Sydney Basin,1100,80,shcal20
+ANU-6355,Naracoorte Coastal Plain,1180,80,shcal20
+SUA-999,Riverina,1200,80,shcal20
+ANU-338,King,1230,80,shcal20
+SUA-998,Riverina,1245,80,shcal20
+NZA-12272,Southern East Queensland,1260,80,shcal20
+GaK-1724,South East Coastal Plain,1280,80,shcal20
+Gak-1730,South East Coastal Plain,1280,80,shcal20
+V-61,Arnhem Coast,1305,80,shcal20
+GaK 2008,Murray Darling Depression,1320,80,shcal20
+V-66,King,1330,80,shcal20
+ANU 671,Murray Darling Depression,1390,80,shcal20
+ANU 4136,Murray Darling Depression,1640,80,shcal20
+V-40,NSW North Coast,1640,80,shcal20
+SUA 2942,Channel Country,1730,80,shcal20
+GaK-1189,Nandewar,1750,80,shcal20
+Wk-3051,Sydney Basin,1810,80,shcal20
+Beta-35481,Sydney Basin,1820,80,shcal20
+ANU-2830,South East Corner,1820,80,shcal20
+V-69,King,1850,80,shcal20
+ANU-2246,South East Corner,1850,80,shcal20
+GaK 2007,Murray Darling Depression,1930,80,shcal20
+GaK-898,Sydney Basin,1930,80,shcal20
+SUA-55,Victoria Bonaparte,1940,80,shcal20
+Beta-27197,Sydney Basin,2160,80,shcal20
+ANU 662,Murray Darling Depression,2180,80,shcal20
+GaK-895,Sydney Basin,2230,80,shcal20
+SUA-1503,Sydney Basin,2230,80,shcal20
+Beta-65749,Sydney Basin,2230,80,shcal20
+SUA-1918,South East Corner,2380,80,shcal20
+Beta-32045,Southern East Queensland,2420,80,shcal20
+ANU 678,Murray Darling Depression,2440,80,shcal20
+V-60,Arnhem Coast,2445,80,shcal20
+SUA-1454,South East Corner,2470,80,shcal20
+GaK-1190,Nandewar,2480,80,shcal20
+Beta-38242,Southern East Queensland,2790,80,shcal20
+ANU-2837,Simpson Strzelecki Dunefields,2840,80,shcal20
+Beta-65997,Tiwi Coburg,2900,80,shcal20
+Wk-2691,Cape York Peninsula,2970,80,shcal20
+ANU-1246,Naracoorte Coastal Plain,3150,80,shcal20
+NZ-365,Murray Darling Depression,3240,80,shcal20
+ANU-4999,South East Corner,3290,80,shcal20
+GaK-970,South East Coastal Plain,3480,80,shcal20
+ANU-4995,South East Corner,3530,80,shcal20
+ANU-5000,South East Corner,3610,80,shcal20
+Beta-18886,Victoria Midlands,3800,80,shcal20
+ANU-1545,Naracoorte Coastal Plain,3870,80,shcal20
+Beta-18889,Victoria Midlands,3900,80,shcal20
+ANU-9762,Sydney Basin,4000,80,shcal20
+CAMS-2300,Arnhem Plateau,4040,80,shcal20
+ANU-279,Tasmanian South East,4170,80,shcal20
+CAMS-2301,Arnhem Plateau,4460,80,shcal20
+Beta-66452,Sydney Basin,4690,80,shcal20
+Beta-18888,Victoria Midlands,5170,80,shcal20
+CS-610,Kanmantoo,6810,80,shcal20
+Beta-88521,Victoria Midlands,7090,80,shcal20
+ANU-7502,Murray Darling Depression,7800,80,shcal20
+Beta-8190,Flinders,8300,80,shcal20
+Beta-38418,Murray Darling Depression,12420,80,shcal20
+Beta-38416,Murray Darling Depression,12450,80,shcal20
+SUA-377C,South East Corner,360,85,shcal20
+V-62,Arnhem Coast,1170,85,shcal20
+ANU-622,Swan Coastal Plain,1730,85,shcal20
+Y-150-1,South East Coastal Plain,1855,85,shcal20
+Not given,Murray Darling Depression,1931,85,shcal20
+ANU-648,Sydney Basin,2350,85,shcal20
+ANU-175,Sydney Basin,2670,85,shcal20
+SUA-1040,Pilbara (inland),3010,85,shcal20
+SUA-932,Sydney Basin,3040,85,shcal20
+NZ 1226,Murray Darling Depression,3290,85,shcal20
+ANU 701,Murray Darling Depression,3560,85,shcal20
+P-308,Murray Darling Depression,3750,85,shcal20
+P-309,Murray Darling Depression,3870,85,shcal20
+P-311,Murray Darling Depression,4050,85,shcal20
+R2618/1,Southern East Queensland,9160,85,shcal20
+V-161,Southern East Queensland,50,86,shcal20
+V-10,NSW North Coast,626,86,shcal20
+V-45,NSW North Coast,585,87,shcal20
+V-44,NSW North Coast,1285,88,shcal20
+NZA-2323,Sydney Basin,2402,88,shcal20
+V-36,NSW South Western Slopes,5320,88,shcal20
+NSW-17,King,6050,88,shcal20
+SUA-1331,South East Coastal Plain,120,90,shcal20
+GaK-9007,Victoria Volcanic Plain,180,90,shcal20
+GX-2095,NSW North Coast,200,90,shcal20
+Gak-678,Simpson Strzelecki Dunefields,250,90,shcal20
+Beta-16515,Riverina,300,90,shcal20
+Gak-679,Simpson Strzelecki Dunefields,320,90,shcal20
+GaK-705,NSW North Coast,340,90,shcal20
+GaK-5988,Tasmanian West,400,90,shcal20
+ANU-6371,Sydney Basin,480,90,shcal20
+ANU-3711,Sydney Basin,520,90,shcal20
+Beta-1671,NSW North Coast,605,90,shcal20
+Gak-9883,Flinders Lofty Block,630,90,shcal20
+GaK-6599,Tasmanian West,630,90,shcal20
+ANU-1244,Naracoorte Coastal Plain,650,90,shcal20
+Wk-3955,Warren,680,90,shcal20
+ANU-7501A,South East Corner,770,90,shcal20
+Not given,Sydney Basin,800,90,shcal20
+GaK-5990,Tasmanian West,870,90,shcal20
+SUA-1920,South East Corner,890,90,shcal20
+ANU-658,Flinders Lofty Block,900,90,shcal20
+ANU-1618,King,900,90,shcal20
+SUA-144,Sydney Basin,930,90,shcal20
+GaK-711,NSW North Coast,950,90,shcal20
+SUA-1241,Riverina,1000,90,shcal20
+OZC-961,Darwin Coastal,1010,90,shcal20
+ANU-2427,Victoria Volcanic Plain,1070,90,shcal20
+ANU-6939,Tasmanian South East,1090,90,shcal20
+Beta-41416,Arnhem Coast,1110,90,shcal20
+GaK-6874,Tasmanian Southern Ranges,1140,90,shcal20
+GaK-1059,Victoria Volcanic Plain,1190,90,shcal20
+GaK-2456,NSW North Coast,1210,90,shcal20
+GaK-682,South East Coastal Plain,1260,90,shcal20
+GaK-708,NSW North Coast,1340,90,shcal20
+ANU-122,Sydney Basin,1410,90,shcal20
+GaK-894,Sydney Basin,1430,90,shcal20
+SUA-1119,Riverina,1470,90,shcal20
+SUA-2857,Sydney Basin,1520,90,shcal20
+GaK-566,NSW North Coast,1530,90,shcal20
+NZA-3909,Victoria Midlands,1570,90,shcal20
+SUA-1118,Riverina,1610,90,shcal20
+SUA-1746,Sydney Basin,1630,90,shcal20
+ANU-741,Sydney Basin,1695,90,shcal20
+SUA-1145,South East Corner,1700,90,shcal20
+Gak-2491,Simpson Strzelecki Dunefields,1820,90,shcal20
+SUA-2106,Sydney Basin,1820,90,shcal20
+SUA-2102,Murray Darling Depression,1860,90,shcal20
+ANU-1242,Naracoorte Coastal Plain,1960,90,shcal20
+SUA-238/C,Sydney Basin,1965,90,shcal20
+GaK-896,Sydney Basin,2110,90,shcal20
+SUA-1672,Sydney Basin,2169,90,shcal20
+Wk-3052,Sydney Basin,2230,90,shcal20
+GaK-688,Sydney Basin,2360,90,shcal20
+V-59,Arnhem Coast,2370,90,shcal20
+SUA-1720,Sydney Basin,2720,90,shcal20
+GaK-1021,Murray Darling Depression,2980,90,shcal20
+Beta-56286,Sydney Basin,3080,90,shcal20
+ANU 679,Murray Darling Depression,3270,90,shcal20
+ANU-5913,Sydney Basin,3360,90,shcal20
+NPL-63,Murray Darling Depression,3450,90,shcal20
+Beta-52438,Tasmanian Central Highlands,3480,90,shcal20
+Beta-57824,Sydney Basin,3520,90,shcal20
+Beta-18887,Victoria Midlands,3690,90,shcal20
+ANU-1233,Naracoorte Coastal Plain,3800,90,shcal20
+GaK-968,South East Coastal Plain,3920,90,shcal20
+Beta-66450,Sydney Basin,4060,90,shcal20
+ANU-4702,Sydney Basin,4190,90,shcal20
+R1250/3,Tasmanian South East,5270,90,shcal20
+Not given,Riverina,5400,90,shcal20
+Gak-1409,Murray Darling Depression,5840,90,shcal20
+ANU-1022b,Riverina,5860,90,shcal20
+GaK-969,South East Coastal Plain,5880,90,shcal20
+ANU-1090B,Tasmanian South East,5890,90,shcal20
+Beta-93555,Victoria Volcanic Plain,6120,90,shcal20
+ANU-1773,King,6600,90,shcal20
+ANU-1552,King,7180,90,shcal20
+OZD-321,Warren,13050,90,shcal20
+Beta-40346,Tasmanian Southern Ranges,14510,90,shcal20
+Wk-3390,Warren,16080,90,shcal20
+Beta-44078,Tasmanian West,16420,90,shcal20
+Wk-9148,Pilbara (inland),16950,90,shcal20
+Beta-48997,Murray Darling Depression,17820,90,shcal20
+NPL-28,Murray Darling Depression,1000,91,shcal20
+V-157,Southern East Queensland,1110,91,shcal20
+NPL-29,Murray Darling Depression,1220,94,shcal20
+Wk-12537,Pilbara (inland),13375,94,shcal20
+SUA-776,South East Coastal Plain,425,95,shcal20
+SUA-572,Victoria Volcanic Plain,640,95,shcal20
+SUA-778,Victoria Volcanic Plain,778,95,shcal20
+SUA-775,South East Coastal Plain,780,95,shcal20
+Not given,South East Coastal Plain,820,95,shcal20
+SUA-583,Victoria Midlands,820,95,shcal20
+SUA-626,Tasmanian South East,840,95,shcal20
+SUA-59,Sydney Basin,870,95,shcal20
+SUA-575,Victoria Volcanic Plain,1090,95,shcal20
+SUA-514,Sydney Basin,1235,95,shcal20
+ANU-742,Sydney Basin,3090,95,shcal20
+SUA 870,Murray Darling Depression,8200,95,shcal20
+ANU-278,Tasmanian South East,4860,96,shcal20
+SUA-674,Victoria Volcanic Plain,840,98,shcal20
+GaK-337,Sydney Basin,140,100,shcal20
+NZA-5730,Mitchell Grass Downs,140,100,shcal20
+GaK-371,NSW North Coast,310,100,shcal20
+SUA-2141,Sydney Basin,330,100,shcal20
+ANU-3759,South East Coastal Plain,410,100,shcal20
+ANU-67/2,Southern East Queensland,440,100,shcal20
+ANU-15,Darwin Coastal,450,100,shcal20
+ANU-67/3,Southern East Queensland,460,100,shcal20
+Gak-9885,Flinders Lofty Block,500,100,shcal20
+GaK-5987,Tasmanian West,570,100,shcal20
+ANU-3713,Sydney Basin,600,100,shcal20
+SUA-2239,Sydney Basin,650,100,shcal20
+SUA 1737,Murray Darling Depression,700,100,shcal20
+ANU-6449,Sydney Basin,750,100,shcal20
+ANU-3585,South East Coastal Plain,760,100,shcal20
+SUA-1117,Riverina,800,100,shcal20
+ANU-337,King,840,100,shcal20
+SUA-146,Sydney Basin,985,100,shcal20
+ANU-179,Sydney Basin,1050,100,shcal20
+SUA-483,NSW North Coast,1060,100,shcal20
+ANU-68/1,Southern East Queensland,1190,100,shcal20
+GaK-5989,Tasmanian West,1250,100,shcal20
+ANU-3758,South East Coastal Plain,1270,100,shcal20
+ANU-12,Sydney Basin,1300,100,shcal20
+SUA-571,Victoria Volcanic Plain,1320,100,shcal20
+SUA-632,Swan Coastal Plain,1330,100,shcal20
+ANU-68/2,Southern East Queensland,1390,100,shcal20
+SUA-672,Victoria Volcanic Plain,1420,100,shcal20
+ANU 653,Murray Darling Depression,1420,100,shcal20
+SUA-986,South East Coastal Plain,1620,100,shcal20
+ANU-16,Darwin Coastal,1620,100,shcal20
+SUA-533,Victoria Midlands,1620,100,shcal20
+V-5,South East Coastal Plain,1660,100,shcal20
+Beta-47757,Tasmanian West,1720,100,shcal20
+SUA-537,Victoria Volcanic Plain,1840,100,shcal20
+SUA-535,Victoria Midlands,1870,100,shcal20
+ANU-895,Sydney Basin,1950,100,shcal20
+Beta-56984,Sydney Basin,1980,100,shcal20
+ANU 655,Murray Darling Depression,2010,100,shcal20
+SUA-322,Sydney Basin,2080,100,shcal20
+Not given,Tasmanian South East,2080,100,shcal20
+ANU-2836,Simpson Strzelecki Dunefields,2220,100,shcal20
+SUA-774,South East Coastal Plain,2265,100,shcal20
+ANU-11,Sydney Basin,2300,100,shcal20
+Beta-5787,Sydney Basin,2340,100,shcal20
+SUA-387,Sydney Basin,2370,100,shcal20
+SUA-673,South East Coastal Plain,2450,100,shcal20
+Gak-512,South East Corner,2460,100,shcal20
+SUA-1334,South East Coastal Plain,2470,100,shcal20
+SUA-1063B,Tasmanian West,2580,100,shcal20
+GaK-611,South East Coastal Plain,2800,100,shcal20
+ANU-8429,Sydney Basin,2860,100,shcal20
+GaK-565,NSW North Coast,2930,100,shcal20
+Beta-7068,Riverina,2990,100,shcal20
+GaK-681,South East Coastal Plain,3060,100,shcal20
+ANU-17,Darwin Coastal,3120,100,shcal20
+SUA-508,Swan Coastal Plain,3220,100,shcal20
+GaK-568,NSW North Coast,3230,100,shcal20
+ANU-1615,King,3330,100,shcal20
+SUA-584,Victoria Midlands,3330,100,shcal20
+Not given,Sydney Basin,3360,100,shcal20
+Beta-4758,Tasmanian Central Highlands,3380,100,shcal20
+SUA-396C,NSW North Coast,3400,100,shcal20
+Gak-1022,Murray Darling Depression,3460,100,shcal20
+ANU-10,Sydney Basin,3650,100,shcal20
+SUA-395C,NSW North Coast,3720,100,shcal20
+V-83,Tasmanian Northern Slopes,3795,100,shcal20
+ANU-624,Swan Coastal Plain,3820,100,shcal20
+ANU 665,Murray Darling Depression,4020,100,shcal20
+SUA-1229,Murchison,4090,100,shcal20
+SUA-394,NSW North Coast,4110,100,shcal20
+Wk-8843,South East Corner,4130,100,shcal20
+GaK-805,Nandewar,4640,100,shcal20
+NZ-364,Murray Darling Depression,4800,100,shcal20
+SUA-2253,Flinders Lofty Block,5100,100,shcal20
+Gak-1024,Murray Darling Depression,5180,100,shcal20
+SUA-60,Sydney Basin,5240,100,shcal20
+GaK-806,Nandewar,5450,100,shcal20
+GaK-683,South East Coastal Plain,6550,100,shcal20
+NZ 66/LFM 188,Murray Darling Depression,6570,100,shcal20
+ANU-1797,King,6640,100,shcal20
+CS-495,Kanmantoo,7320,100,shcal20
+CS-496,Kanmantoo,7450,100,shcal20
+SUA-766,Murray Darling Depression,7650,100,shcal20
+Beta-58970,Murray Darling Depression,8850,100,shcal20
+Beta-15996,Naracoorte Coastal Plain,9240,100,shcal20
+R2618/2,Southern East Queensland,11650,100,shcal20
+NZ-1327,Victoria Volcanic Plain,12000,100,shcal20
+OZD-320,Warren,12500,100,shcal20
+NZ-1321,Victoria Volcanic Plain,6759,102,shcal20
+ANU-2020,Arnhem Coast,290,105,shcal20
+Wk-2089,Tasmanian West,330,105,shcal20
+Wk-2088,Tasmanian West,340,105,shcal20
+N-832,South East Coastal Plain,470,105,shcal20
+SUA-486,NSW North Coast,915,105,shcal20
+SUA-485,NSW North Coast,925,105,shcal20
+SUA-308,Tasmanian South East,1960,105,shcal20
+Beta-7065,Riverina,2250,105,shcal20
+SUA-756,Sydney Basin,2495,105,shcal20
+I-5321,Central Ranges,3840,105,shcal20
+SUA-681,Sydney Basin,5430,105,shcal20
+R-1742,Victoria Volcanic Plain,7360,105,shcal20
+ANU-3678,South East Corner,320,110,shcal20
+ANU-6930,South East Corner,330,110,shcal20
+Beta 33931,Channel Country,400,110,shcal20
+Wk-3141,Broken Hill Complex,420,110,shcal20
+Beta-16514,Riverina,430,110,shcal20
+ANU-6934,South East Corner,460,110,shcal20
+CS2332,Flinders Lofty Block,550,110,shcal20
+OZC-957,Darwin Coastal,590,110,shcal20
+GaK-9008,Victoria Volcanic Plain,590,110,shcal20
+ANU-1060,South Eastern Highlands,760,110,shcal20
+SUA-1670,Sydney Basin,810,110,shcal20
+GaK-9010,Victoria Volcanic Plain,850,110,shcal20
+ANU-341,King,1070,110,shcal20
+ANU-5429,Simpson Strzelecki Dunefields,1130,110,shcal20
+ANU-429,Simpson Strzelecki Dunefields,1130,110,shcal20
+V-162,Southern East Queensland,1180,110,shcal20
+Gak-9884,Flinders Lofty Block,1250,110,shcal20
+ANU-690,Murray Darling Depression,1400,110,shcal20
+SUA-3012,Sydney Basin,1400,110,shcal20
+CAMS-42877,Victoria Bonaparte,1430,110,shcal20
+ANU-6216,Sydney Basin,1530,110,shcal20
+ANU 661,Murray Darling Depression,1610,110,shcal20
+GaK 2512,Murray Darling Depression,1660,110,shcal20
+ANU-4997,South East Corner,1670,110,shcal20
+GXO-265,Tasmanian South East,1860,110,shcal20
+V-5,South East Coastal Plain,2120,110,shcal20
+ANU-1783,Murray Darling Depression,2120,110,shcal20
+SUA-574,Victoria Volcanic Plain,2350,110,shcal20
+Beta-38414,Southern East Queensland,2400,110,shcal20
+Not given,Sydney Basin,3680,110,shcal20
+ANU-1614,King,3960,110,shcal20
+GaK-1023,Murray Darling Depression,4360,110,shcal20
+SUA-2217,Australian Alps,4660,110,shcal20
+Not given,Riverina,4670,110,shcal20
+Gak-5424,Tasmanian South East,4720,110,shcal20
+Beta-5099,Tasmanian South East,5210,110,shcal20
+I-324,Tasmanian South East,5220,110,shcal20
+SUA-627,Pilbara (inland),5260,110,shcal20
+SUA-564,Sydney Basin,5820,110,shcal20
+Gak-971,South East Coastal Plain,6010,110,shcal20
+SUA-1233,Sydney Basin,7010,110,shcal20
+R2526/17,Southern East Queensland,7890,110,shcal20
+ANU-1320,Naracoorte Coastal Plain,8210,110,shcal20
+Wk-410,South East Coastal Plain,8340,110,shcal20
+Beta-21541,Naracoorte Coastal Plain,8900,110,shcal20
+Beta-8465,Naracoorte Coastal Plain,10760,110,shcal20
+OZD-323,Warren,12950,110,shcal20
+Beta-25381,Tasmanian Southern Ranges,13100,110,shcal20
+AA-19695,Warren,13580,110,shcal20
+SUA-2266,Victoria Bonaparte,14530,110,shcal20
+Beta-26512,Tasmanian Southern Ranges,16820,110,shcal20
+Wk-3391,Warren,16850,110,shcal20
+Wk-9343,Broken Hill Complex,398,111,shcal20
+OZA-257,NSW North Coast,7566,114,shcal20
+SUA-51,Sydney Basin,900,115,shcal20
+SUA-157,Sydney Basin,1060,115,shcal20
+Beta-1212,Sydney Basin,1790,115,shcal20
+ANU-744,Sydney Basin,2780,115,shcal20
+SUA-274,NSW North Coast,3360,115,shcal20
+SUA-150,Sydney Basin,7870,115,shcal20
+R2526/21,Southern East Queensland,8300,115,shcal20
+SUA-1206,Sydney Basin,9755,115,shcal20
+SUA-1332,South East Coastal Plain,200,120,shcal20
+GX-4785,South East Coastal Plain,210,120,shcal20
+ANU-6370,Sydney Basin,220,120,shcal20
+ANU-6933,South East Corner,340,120,shcal20
+GX-6606,Esperance Plains,410,120,shcal20
+Wk-6625,Channel Country,450,120,shcal20
+GX-0070,Sydney Basin,581,120,shcal20
+SUA-1724,South East Coastal Plain,590,120,shcal20
+ANU 663,Murray Darling Depression,950,120,shcal20
+Gak-9011,Victoria Volcanic Plain,1030,120,shcal20
+ANU-6358,Naracoorte Coastal Plain,1090,120,shcal20
+ANU-8134,Sydney Basin,1220,120,shcal20
+CS2333,Flinders Lofty Block,1230,120,shcal20
+GaK-336,Naracoorte Coastal Plain,1470,120,shcal20
+ANU-2429,Victoria Volcanic Plain,1480,120,shcal20
+CS2331,Flinders Lofty Block,1500,120,shcal20
+GaK-372,NSW North Coast,1640,120,shcal20
+ANU-3832,Victoria Volcanic Plain,1850,120,shcal20
+ANU-3586,South East Coastal Plain,2030,120,shcal20
+Beta-1210,Sydney Basin,2235,120,shcal20
+SUA-1333,South East Coastal Plain,2320,120,shcal20
+ANU-6357,Naracoorte Coastal Plain,2560,120,shcal20
+GXO-420,King,2600,120,shcal20
+SUA-1671,Sydney Basin,2720,120,shcal20
+GaK-564,NSW North Coast,2960,120,shcal20
+GaK-567,NSW North Coast,3040,120,shcal20
+Gak-9886,Flinders Lofty Block,3930,120,shcal20
+ANU-407,Murray Darling Depression,3930,120,shcal20
+ANU-7500,Murray Darling Depression,4110,120,shcal20
+SUA-275,NSW North Coast,4260,120,shcal20
+Gak-9887,Flinders Lofty Block,4280,120,shcal20
+ANU-356,Tasmanian South East,4490,120,shcal20
+GaK-610,South East Coastal Plain,5120,120,shcal20
+Gak-5425,Tasmanian South East,5300,120,shcal20
+Z-2001,Murray Darling Depression,5610,120,shcal20
+GaK-1729,South East Coastal Plain,5680,120,shcal20
+Wk-2963,Sydney Basin,6740,120,shcal20
+Beta-65750,Sydney Basin,7550,120,shcal20
+R-55/4,Naracoorte Coastal Plain,8700,120,shcal20
+ANU-1192B,Naracoorte Coastal Plain,9010,120,shcal20
+SUA 871,Murray Darling Depression,9390,120,shcal20
+Beta-52808,Tasmanian Central Highlands,10370,120,shcal20
+Beta-52813,Tasmanian Central Highlands,10380,120,shcal20
+OZD-322,Warren,13300,120,shcal20
+Beta-88522,Victoria Midlands,15840,120,shcal20
+Beta-54736,Tasmanian West,16200,120,shcal20
+Wk-10961,Darwin Coastal,1496,122,shcal20
+Wk-10789,Victoria Bonaparte,3619,122,shcal20
+GX-0069,Sydney Basin,144,125,shcal20
+GX-2669,Brigalow Belt South,2285,125,shcal20
+SUA-164,Darwin Coastal,3450,125,shcal20
+SUA-244,Darwin Coastal,5045,125,shcal20
+Not given,Murray Darling Depression,6010,125,shcal20
+V-18,NSW South Western Slopes,7360,125,shcal20
+SUA-165,Darwin Coastal,8690,125,shcal20
+ANU-869,Riverina,10930,125,shcal20
+SUA-931,Sydney Basin,11050,125,shcal20
+Wk-166,Murray Darling Depression,22015,125,shcal20
+Wk-9341,Broken Hill Complex,709,128,shcal20
+Wk-23579,Victoria Midlands,12422,128,shcal20
+ANU-2013,Arnhem Coast,310,130,shcal20
+GaK-3433,NSW North Coast,350,130,shcal20
+Wk-8452,Darwin Coastal,460,130,shcal20
+GaK-706,NSW North Coast,500,130,shcal20
+ANU-6450,South East Coastal Plain,590,130,shcal20
+Wk-6627,Channel Country,630,130,shcal20
+Gak-9888,Flinders Lofty Block,850,130,shcal20
+Wk-6629,Channel Country,1170,130,shcal20
+SUA-997,Riverina,1375,130,shcal20
+SUA-552,Victoria Volcanic Plain,1420,130,shcal20
+ANU 4135,Murray Darling Depression,1490,130,shcal20
+GaK-481,Sydney Basin,1580,130,shcal20
+SUA-1232,Sydney Basin,1590,130,shcal20
+V-5,South East Coastal Plain,1830,130,shcal20
+ANU-3888,South East Coastal Plain,1870,130,shcal20
+ANU-7683,Simpson Strzelecki Dunefields,2710,130,shcal20
+GaK-376,NSW North Coast,2870,130,shcal20
+SUA-676,Sydney Basin,3650,130,shcal20
+Beta-2854,Tasmanian South East,5760,130,shcal20
+SUA-306,Tasmanian South East,5800,130,shcal20
+Beta-8464,Naracoorte Coastal Plain,8350,130,shcal20
+ANU-8996,Flinders,9100,130,shcal20
+ANU-532,Riverina,9590,130,shcal20
+Wk-2511,Sydney Basin,10150,130,shcal20
+NZA-3016,NSW North Coast,14750,130,shcal20
+Beta-44077,Tasmanian West,14920,130,shcal20
+SUA-1018A,Tasmanian South East,515,135,shcal20
+V-5,South East Coastal Plain,2050,135,shcal20
+V-89,Tasmanian Northern Slopes,5425,135,shcal20
+Z-2002,Murray Darling Depression,5790,135,shcal20
+SUA-641,Flinders,7150,135,shcal20
+SUA-455,Warren,9220,135,shcal20
+Beta-42066/ETH-7663,Tasmanian West,17880,135,shcal20
+ANU 10065,Simpson Strzelecki Dunefields,210,140,shcal20
+ANU-1051,Australian Alps,770,140,shcal20
+OZA-672,Murray Darling Depression,1330,140,shcal20
+GaK-373,NSW North Coast,1870,140,shcal20
+Not given,Murray Darling Depression,2245,140,shcal20
+ANU-677,Murray Darling Depression,2400,140,shcal20
+Beta-58864,Sydney Basin,3780,140,shcal20
+GaK-2457,NSW North Coast,3850,140,shcal20
+SUA-1231,Sydney Basin,3980,140,shcal20
+ANU-8132,Sydney Basin,4030,140,shcal20
+L-271G,Murray Darling Depression,4290,140,shcal20
+ANU-6896,Murray Darling Depression,4700,140,shcal20
+ANU 6896,Murray Darling Depression,4700,140,shcal20
+ANU-5310,Riverina,4800,140,shcal20
+SUA-421,Sydney Basin,7530,140,shcal20
+Gak-966,Victoria Volcanic Plain,7700,140,shcal20
+ANU-6850,Nullarbor,9270,140,shcal20
+Beta-14862,Naracoorte Coastal Plain,9590,140,shcal20
+SUA-102,Warren,11960,140,shcal20
+SUA-103,Warren,12050,140,shcal20
+Beta-26510,Tasmanian Southern Ranges,14510,140,shcal20
+Beta-26511,Tasmanian Southern Ranges,15290,140,shcal20
+Beta-33076,New England Tablelands,17140,140,shcal20
+Wk-8954,Pilbara (inland),19270,140,shcal20
+OZA-256,NSW North Coast,11351,143,shcal20
+Wk-168,Murray Darling Depression,24061,144,shcal20
+ANU-535,Sydney Basin,2975,145,shcal20
+SUA-276,NSW North Coast,5120,145,shcal20
+SUA-364,Warren,6490,145,shcal20
+V-97,Tasmanian Northern Slopes,6745,145,shcal20
+SUA-1085,Victoria Volcanic Plain,7290,145,shcal20
+SUA-15,Sydney Basin,12550,145,shcal20
+ANU 410,Murray Darling Depression,320,150,shcal20
+ANU-3588,South East Coastal Plain,380,150,shcal20
+ANU-12031,Gulf Coastal,640,150,shcal20
+ANU 659,Murray Darling Depression,760,150,shcal20
+SUA-1120,Riverina,1180,150,shcal20
+Wk-6626,Channel Country,1330,150,shcal20
+I-317,King,1500,150,shcal20
+OZA-673U1,Murray Darling Depression,1770,150,shcal20
+SUA-3009,Sydney Basin,2010,150,shcal20
+I-322,King,2350,150,shcal20
+SUA-779,Victoria Volcanic Plain,2370,150,shcal20
+GaK-374,NSW North Coast,2580,150,shcal20
+ARL-160,South Eastern Highlands,3100,150,shcal20
+ANU-1102,Riverina,3150,150,shcal20
+ANU-623,Swan Coastal Plain,3310,150,shcal20
+NSW-71,Sydney Basin,3500,150,shcal20
+OZA-667,Murray Darling Depression,3610,150,shcal20
+ANU-6615,Sydney Basin,3670,150,shcal20
+ANU-743,Sydney Basin,3770,150,shcal20
+GaK-394a,Sydney Basin,3880,150,shcal20
+SUA-633,Swan Coastal Plain,4560,150,shcal20
+V-86,Tasmanian Northern Slopes,7465,150,shcal20
+Gak-985,Victoria Volcanic Plain,7710,150,shcal20
+ANU-1192A,Naracoorte Coastal Plain,8470,150,shcal20
+ANU-1490,Naracoorte Coastal Plain,9430,150,shcal20
+ANU-1247,Naracoorte Coastal Plain,10200,150,shcal20
+ANU-1292,Naracoorte Coastal Plain,10200,150,shcal20
+N-1437,Murray Darling Depression,12100,150,shcal20
+Beta-53222,Tasmanian Central Highlands,12930,150,shcal20
+Beta-53221,Tasmanian Central Highlands,13970,150,shcal20
+ANU-8649,Murray Darling Depression,15400,150,shcal20
+Beta-66283,Tasmanian West,17110,150,shcal20
+CAMS-2873,Murray Darling Depression,18800,150,shcal20
+Beta-98020,Victoria Midlands,22160,150,shcal20
+Wk-169,Murray Darling Depression,24372,150,shcal20
+ANU-2012,Arnhem Coast,1190,155,shcal20
+SUA-1063A,Tasmanian West,2830,155,shcal20
+ANU-6372,Sydney Basin,560,160,shcal20
+ANU-12032,Gulf Coastal,660,160,shcal20
+ANU-13,Sydney Basin,680,160,shcal20
+ANU-177,Sydney Basin,840,160,shcal20
+ANU-1363,King,1610,160,shcal20
+Beta-17657,South Eastern Highlands,2740,160,shcal20
+GaK-375,NSW North Coast,2760,160,shcal20
+W-125,Victoria Volcanic Plain,3010,160,shcal20
+SUA-599,Tasmanian South East,3875,160,shcal20
+SUA-509,Swan Coastal Plain,6135,160,shcal20
+ANU-1377,Naracoorte Coastal Plain,7930,160,shcal20
+O-654,Warren,8500,160,shcal20
+SUA-484,NSW North Coast,9320,160,shcal20
+Beta-16653,South Eastern Highlands,10160,160,shcal20
+Beta-27079,Tasmanian Southern Ranges,10440,160,shcal20
+ANU-925,Kanmantoo,10940,160,shcal20
+ANU-1235,Riverina,11350,160,shcal20
+Not given,Riverina,11440,160,shcal20
+Not given,Riverina,11440,160,shcal20
+R11769/4 NZA-564,Tasmanian West,13840,160,shcal20
+Beta-37548,Tasmanian Southern Ranges,14960,160,shcal20
+Beta-88523,Victoria Midlands,22140,160,shcal20
+SUA-17,Sydney Basin,2930,165,shcal20
+GXO-266,Tasmanian Northern Slopes,8120,165,shcal20
+ANU-1099,Riverina,8190,165,shcal20
+ANU-2425,Victoria Volcanic Plain,320,170,shcal20
+ANU-2828,South East Corner,590,170,shcal20
+ANU-421,Murray Darling Depression,750,170,shcal20
+ANU-2304,Flinders Lofty Block,900,170,shcal20
+GX14608,Simpson Strzelecki Dunefields,1260,170,shcal20
+ANU-6354,Naracoorte Coastal Plain,1810,170,shcal20
+OZA-674U2,Murray Darling Depression,1870,170,shcal20
+ANU 664,Murray Darling Depression,2060,170,shcal20
+ANU-7504,Murray Darling Depression,2150,170,shcal20
+ANU-5428,Simpson Strzelecki Dunefields,3080,170,shcal20
+ANU-8432,Sydney Basin,3260,170,shcal20
+ANU 8974B,Murray Darling Depression,4580,170,shcal20
+ANU-287,Sydney Basin,5150,170,shcal20
+SUA-18,Sydney Basin,6050,170,shcal20
+SUA-2895,Flinders,7960,170,shcal20
+Beta-54738,Tasmanian West,10440,170,shcal20
+SUA-963,Murray Darling Depression,13340,170,shcal20
+Beta-45815,Tasmanian West,15730,170,shcal20
+Beta-37545/ETH-6734,Tasmanian Southern Ranges,15840,170,shcal20
+Beta-44079,Tasmanian West,18060,170,shcal20
+Beta-29988,Tasmanian Southern Ranges,23270,170,shcal20
+NZ-1222,Victoria Volcanic Plain,6186,171,shcal20
+Wk-11350,Wet Tropics,3827,172,shcal20
+Wk-167,Murray Darling Depression,23507,174,shcal20
+C-600,South East Coastal Plain,1177,175,shcal20
+ANU-790,Sydney Basin,4120,175,shcal20
+SUA-402C,NSW North Coast,445,179,shcal20
+ANU-6058,Sydney Basin,540,180,shcal20
+ANU-2344,Sydney Basin,550,180,shcal20
+ANU-12030,Gulf Coastal,570,180,shcal20
+GX-0108,NSW North Coast,1860,180,shcal20
+ANU-676,Murray Darling Depression,1880,180,shcal20
+I-1135,Sydney Basin,2150,180,shcal20
+OZA-671U2,Murray Darling Depression,3480,180,shcal20
+Beta-1211,Sydney Basin,4140,180,shcal20
+ANU-6845,Nullarbor,4750,180,shcal20
+ANU 8974A,Murray Darling Depression,5010,180,shcal20
+Beta-14861,Naracoorte Coastal Plain,9710,180,shcal20
+Wk-1510,Simpson Strzelecki Dunefields,11770,180,shcal20
+Wk-3030,Warren,12590,180,shcal20
+ANU 2967,Murray Darling Depression,16000,180,shcal20
+Beta-27075,Tasmanian Southern Ranges,16120,180,shcal20
+ANU 2203,Murray Darling Depression,16700,180,shcal20
+CAMS-2875,Murray Darling Depression,20880,180,shcal20
+Beta-40349,Tasmanian Southern Ranges,22730,180,shcal20
+Beta-29989,Tasmanian Southern Ranges,26190,180,shcal20
+ANU-420C,Murray Darling Depression,4550,185,shcal20
+V-35,NSW South Western Slopes,12550,185,shcal20
+ANU-6935,South East Corner,290,190,shcal20
+ANU-3762,South East Coastal Plain,790,190,shcal20
+SUA-1307,Sydney Basin,1580,190,shcal20
+ANU-9070,Darwin Coastal,2360,190,shcal20
+ANU-7770,South East Corner,2990,190,shcal20
+ANU-5309,Murray Darling Depression,3390,190,shcal20
+ANU 669,Murray Darling Depression,4260,190,shcal20
+ANU-5795,Eyre York Block,5470,190,shcal20
+NZ-676,Victoria Midlands,6460,190,shcal20
+ANU-5787a,Murray Darling Depression,6610,190,shcal20
+ANU-1023,Riverina,7820,190,shcal20
+ANU-6849,Nullarbor,9530,190,shcal20
+ANU-2278,Simpson Strzelecki Dunefields,13850,190,shcal20
+R11769/5 NZA-565,Tasmanian West,14410,190,shcal20
+ANU-1772,King,14850,190,shcal20
+Beta-37553,Tasmanian Southern Ranges,15290,190,shcal20
+Beta-45812,Tasmanian West,16500,190,shcal20
+CAMS-1929,Murray Darling Depression,21140,190,shcal20
+CAMS-1930,Murray Darling Depression,21190,190,shcal20
+Beta-48329,Tasmanian Southern Ranges,23220,190,shcal20
+ANU-11900,Desert Uplands,340,200,shcal20
+ANU-6899,Murray Darling Depression,350,200,shcal20
+ANU 6899,Murray Darling Depression,350,200,shcal20
+Not given,South East Coastal Plain,538,200,shcal20
+ANU-6894,Murray Darling Depression,1070,200,shcal20
+ANU 6894,Murray Darling Depression,1070,200,shcal20
+ANU-339,King,1350,200,shcal20
+ANU-6895,Murray Darling Depression,1560,200,shcal20
+ANU 6895,Murray Darling Depression,1560,200,shcal20
+ANU-2838,Simpson Strzelecki Dunefields,1900,200,shcal20
+ANU-6846,Nullarbor,2490,200,shcal20
+SUA-675,Victoria Volcanic Plain,4130,200,shcal20
+R1250/2,Tasmanian South East,5220,200,shcal20
+ANU-1038,Riverina,5540,200,shcal20
+Gak-703,Riverina,5540,200,shcal20
+Beta-14863,Naracoorte Coastal Plain,5750,200,shcal20
+Wk-7302,Victoria Bonaparte,6170,200,shcal20
+BKY 88034,Murray Darling Depression,6200,200,shcal20
+NZ-1225,Murray Darling Depression,6820,200,shcal20
+ANU 8647,Murray Darling Depression,7140,200,shcal20
+ANU-8647,Murray Darling Depression,7140,200,shcal20
+I-323,Tasmanian South East,8700,200,shcal20
+Beta-25877,Tasmanian Southern Ranges,11630,200,shcal20
+Beta-54737,Tasmanian West,12000,200,shcal20
+R5001/4,Tasmanian Southern Ranges,12600,200,shcal20
+ANU-7196,Simpson Strzelecki Dunefields,14400,200,shcal20
+Beta-46304,Tasmanian West,14950,200,shcal20
+Beta-30952,Tasmanian Southern Ranges,15200,200,shcal20
+ANU 2210,Murray Darling Depression,16050,200,shcal20
+SUA-964,Murray Darling Depression,16120,200,shcal20
+ANU 2769,Murray Darling Depression,16360,200,shcal20
+SUA-2897,Flinders,18400,200,shcal20
+Beta-27077,Tasmanian Southern Ranges,18840,200,shcal20
+Beta-42995,Tasmanian West,22650,200,shcal20
+Beta-40331,Tasmanian Southern Ranges,23790,200,shcal20
+Beta-46170,Mulga Lands,28310,200,shcal20

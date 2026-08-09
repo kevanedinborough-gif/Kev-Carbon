@@ -1,0 +1,104 @@
+---
+title: "Change-point model: detailed methods and results"
+author: "Kevan Edinborough"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    number_sections: true
+    code_folding: show
+    theme: readable
+params:
+  model_key: "change"
+  report_title: "Change-point model: detailed methods and results"
+---
+
+# Research question
+
+```{r setup, message=FALSE, warning=FALSE}
+find_project_root <- function(start = getwd()) {
+  here <- normalizePath(start, winslash = "/", mustWork = TRUE)
+  repeat {
+    if (file.exists(file.path(here, "config.yml")) && file.exists(file.path(here, "R", "00_setup.R"))) return(here)
+    parent <- dirname(here)
+    if (identical(parent, here)) stop("Could not locate project root.")
+    here <- parent
+  }
+}
+PROJECT_ROOT <- find_project_root()
+setwd(PROJECT_ROOT)
+knitr::opts_knit$set(root.dir = PROJECT_ROOT)
+knitr::opts_chunk$set(echo=TRUE, message=TRUE, warning=TRUE, fig.width=9, fig.height=5.5)
+source(file.path(PROJECT_ROOT, "R", "00_setup.R"))
+source(file.path(PROJECT_ROOT, "R", "10_model_explanations.R"))
+model_key <- params$model_key
+cat(model_plain_english[[model_key]])
+```
+
+# Configuration
+
+```{r configuration}
+knitr::kable(configuration)
+```
+
+# Data preparation
+
+```{r import}
+source(file.path(PROJECT_ROOT, "R", "01_import_clean.R"))
+knitr::kable(audit, digits=1)
+```
+
+```{r calibrate-bin, cache=TRUE}
+source(file.path(PROJECT_ROOT, "R", "02_calibrate_bin.R"))
+```
+
+The dates are calibrated using the curve specified in the active configuration. Determinations from the same site and similar radiocarbon age are grouped into site-time bins to reduce the influence of oversampled contexts.
+
+# Detailed model method
+
+```{r method}
+source(file.path(PROJECT_ROOT, "R", "03_define_models.R"))
+cat(model_method_details[[model_key]])
+```
+
+The model is estimated by MCMC in NIMBLE using the chain count, iterations, burn-in and thinning specified in the active configuration. WAIC may be printed for descriptive inspection, but a one-model run cannot establish relative model preference.
+
+# Model fitting
+
+```{r fit-model, cache=TRUE}
+source(file.path(PROJECT_ROOT, "R", "04_fit_models.R"))
+```
+
+# Posterior results and diagnostics
+
+```{r diagnostics}
+source(file.path(PROJECT_ROOT, "R", "06_diagnostics.R"))
+knitr::kable(posterior_summary, digits=5)
+knitr::kable(convergence, digits=3)
+knitr::kable(slope_questions, digits=4)
+```
+
+```{r curves}
+source(file.path(PROJECT_ROOT, "R", "07_posterior_curves.R"))
+print(p_curve)
+print(p_slope)
+```
+
+# Plain-English result
+
+```{r interpretation, results='asis'}
+cat("**Model:** ", model_labels[[model_key]], "  \n\n", sep="")
+cat(model_result_text(model_key, matrices_by_model, calendar_display, bp_to_ad), "  \n\n")
+cat("This result describes the temporal shape supported within this model. It does not by itself prove population size, colonial causation, or superiority over the other candidate models. Use the all-model comparison report for that comparison.")
+```
+
+# Methodological limitations
+
+Radiocarbon frequency is an archaeological proxy affected by sampling intensity, preservation, research history, site destruction, mobility, depositional practice, calibration-curve structure and the selected time window. Colonial interpretation therefore requires comparison with independent historical evidence and sensitivity analyses.
+
+# Session information
+
+```{r session-info}
+sessionInfo()
+```
