@@ -1,0 +1,10 @@
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+~$*
+*.zip
+*.html
+*.pptx
+*.pdf
+*.docx
