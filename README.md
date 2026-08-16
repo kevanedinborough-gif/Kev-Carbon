@@ -28,7 +28,7 @@ The project asks:
 The workflow uses:
 
 - R
-- NIMBLE/ nimblecarbon
+- NIMBLE/ nimbleCarbon
 - Bayesian MCMC
 - radiocarbon calibration / rcarbon
 - posterior predictive trajectories
