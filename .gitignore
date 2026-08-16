@@ -15,7 +15,6 @@ SS/
 *_cache/
 *_files/
 output/
-figures/
 *.pdf
 *.pptx
 *.zip
