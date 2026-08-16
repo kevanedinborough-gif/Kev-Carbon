@@ -28,9 +28,9 @@ The project asks:
 The workflow uses:
 
 - R
-- NIMBLE
+- NIMBLE/ nimblecarbon
 - Bayesian MCMC
-- radiocarbon calibration
+- radiocarbon calibration / rcarbon
 - posterior predictive trajectories
 - WAIC model comparison
 - convergence diagnostics
