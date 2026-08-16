@@ -1,0 +1,14 @@
+data_file: "data/AusData.xlsx"
+sheet: "AusData"
+calibration_curve: "shcal20"
+calibration_normalised: false
+site_bin_width_years: 100
+analysis_start_calbp: 2000
+analysis_end_calbp: 0
+calendar_display: "calAD"
+run_mode: "test"
+parallel_cores: 1
+mcmc: {chains: null, iterations: null, burnin: null, thin: null, seed: 73021}
+models: {single_slope: false, change_point: true, logistic_transition: false}
+output: {dpi: 320, save_png: true, save_pdf: true}
+workflow_version: "4.0-all-or-separate"

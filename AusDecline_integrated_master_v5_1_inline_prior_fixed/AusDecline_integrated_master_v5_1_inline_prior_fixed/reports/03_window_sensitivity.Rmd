@@ -1,9 +1,0 @@
----
-title: "Analysis-window sensitivity protocol"
-output: html_document
----
-# Purpose
-
-Repeat the stable two-model report with start boundaries of 1000, 2000, 3000 and 4000 cal BP while holding the end at 0 cal BP. Compare the change-point median, its 95% interval, early and late rates, WAIC difference and convergence.
-
-This report is a protocol rather than an automatic multi-hour run. Edit `analysis_start_calbp` in `config.yml`, knit `02_two_model_comparison.Rmd`, and archive each output folder under a unique window name.

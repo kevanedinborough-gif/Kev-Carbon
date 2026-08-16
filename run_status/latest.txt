@@ -1,0 +1,4 @@
+status=FINISHED
+mode=test
+finished=2026-08-11 22:59:42
+report=AusData_simple_NIMBLE_slope_models.html
