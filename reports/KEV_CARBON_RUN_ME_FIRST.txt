@@ -1,0 +1,39 @@
+KEV-CARBON — RUN ME FIRST
+
+1. Copy KevCarbon_AusData_three_model_v2.Rmd into:
+   C:\Users\Kevan\Documents\Kev Carbon
+
+2. Make sure AusData.xlsx is in the same folder.
+
+3. Open RStudio and run:
+   pkgbuild::check_build_tools(debug = TRUE)
+
+4. If that succeeds, open the Rmd.
+
+5. Keep:
+   run_mode: "test"
+
+6. Click Knit -> Knit to HTML.
+
+7. A successful test should create an output folder with:
+   fit_single_slope.rds
+   fit_change_point.rds
+   fit_two_change_points.rds
+   model_comparison_WAIC.csv
+   posterior_parameter_summary.csv
+   plain_english_results.csv
+   01_model_comparison.png
+   02_demographic_trajectories.png
+   03_transition_dates.png
+   04_phase_rates.png
+   05_result_at_a_glance.png
+
+8. The HTML report explains the results in plain English as well as giving
+   the Bayesian parameter estimates.
+
+9. If the test completes, change:
+   run_mode: "test"
+   to:
+   run_mode: "medium"
+
+10. If it fails, send ChatGPT the first NIMBLE ERROR plus about 20 lines above it.
